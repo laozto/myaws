@@ -1,1 +1,4 @@
-echo 'We are coming soon...'
+<?php
+echo 'We are coming soon...';
+?>
+Here we go!
